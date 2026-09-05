@@ -1,1 +1,2 @@
 Tämä on toinen tiedosto.
+Lisätty rivi

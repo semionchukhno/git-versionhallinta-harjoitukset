@@ -16,3 +16,12 @@ h1 {
   margin: auto;
   border: 1px solid grey;
 }
+
+button {
+  background-color: #2c7be5;
+  color: white;
+  margin: 20px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+}
